@@ -1,7 +1,7 @@
 # Aplikasi-Manajemen-Surat
-Nama Kelompok:
+Nama Kelompok:<br>
 2017051065 Weike Sandy Putra Matanari <br>
-2017051024 Muhammad Rizki Kurniawan
+2017051024 Muhammad Rizki Kurniawan<br>
 2017051039 Deny Aldy Apriza 
 
 Studi Kasus:
