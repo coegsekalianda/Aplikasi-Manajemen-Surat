@@ -4,13 +4,13 @@ Nama Kelompok:<br>
 2017051024 Muhammad Rizki Kurniawan<br>
 2017051039 Deny Aldy Apriza 
 
-Studi Kasus:
+Studi Kasus:<br>
 CRUD untuk surat menyurat di kantor
 
-Pembagian Tugas:
-php, sql -> Weike
-Tampilan Website -> Rizki
+Pembagian Tugas:<br>
+php, sql -> Weike<br>
+Tampilan Website -> Rizki<br>
 Hosting Website -> Deny
 
-Link:
+Link:<br>
 http://uapweb.epizy.com/arsip/
