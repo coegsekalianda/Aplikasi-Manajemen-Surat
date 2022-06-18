@@ -1,6 +1,6 @@
 # Aplikasi-Manajemen-Surat
 Nama Kelompok:
-2017051065 Weike Sandy Putra Matanari
+2017051065 Weike Sandy Putra Matanari <br>
 2017051024 Muhammad Rizki Kurniawan
 2017051039 Deny Aldy Apriza 
 
