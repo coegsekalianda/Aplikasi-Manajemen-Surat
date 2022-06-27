@@ -12,5 +12,9 @@ php, sql -> Weike<br>
 Tampilan Website -> Rizki<br>
 Hosting Website -> Deny
 
+Login:<br>
+id: admin<br>
+password: admin<br>
+
 Link:<br>
 http://uapweb.epizy.com/arsip/
